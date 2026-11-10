@@ -1,0 +1,3 @@
+Source: https://storage.googleapis.com/tfjs-models/savedmodel/ssdlite_mobilenet_v2/
+Architecture: COCO-SSD ssdlite_mobilenet_v2
+License: Apache-2.0 (TensorFlow Models)
